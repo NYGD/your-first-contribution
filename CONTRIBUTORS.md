@@ -10,3 +10,4 @@
 - [Omurbek Dulatov](https://github.com/oma256)
 - [Naman Jain](https://github.com/namanjain3232323)
 - [Shravana14](https://github.com/shravana14)
+- [Echoskope](https://github.com/echoskope)
