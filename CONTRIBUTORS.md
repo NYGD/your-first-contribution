@@ -9,6 +9,7 @@
 - [Sergey Savelev](https://github.com/Chatodun)
 - [Omurbek Dulatov](https://github.com/oma256)
 - [Naman Jain](https://github.com/namanjain3232323)
+- [shaxzod](https://github.com/shoxa)
 - [maksatbekova](https://github.com/maksatbekova)
 - [Тоширо]_(https://github.com/6Toshiro9)
 - [ТИМОХА](https://github.com/TiMa02)
